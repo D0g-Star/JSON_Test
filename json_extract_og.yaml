@@ -1,7 +1,7 @@
 ---
 # ansible-galaxy collection install ansible.utils
 # ansible-playbook test-json.yml
-
+testing
 - name: Play around with JSON inputs
   hosts: localhost
   connection: local
